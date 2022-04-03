@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9aa39f76-283e-425d-aefd-d6b088820cb8" name="Changes" comment="ενημερωση javadoc" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="windowProvider_windowCustomer" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="deploy_2157_7-1-22" />
+                    <option name="lastUsedInstant" value="1641585496" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="windowProvider_windowCustomer" />
+                    <option name="lastUsedInstant" value="1641585495" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="220A24drvEZhLi9A4Z2fZVMXxTo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="right" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="112" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE" value="left" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="330" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/uploads" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="GUI" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vogia\IdeaProjects\mybooking-nikol21_new1\uploads" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vogia\IdeaProjects\mybooking-nikol21_new1\uploads" />
+      <recent name="C:\Users\Olger Chotza\Documents\Programming\MyBooking\src\GUI" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="accommodations" />
+      <recent name="accommodations.reservervations" />
+      <recent name="users" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Display" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="photo_characteristicsDisplay.Display" />
+      <module name="MyBooking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="photo_characteristicsDisplay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MyBooking" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in MyBooking" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBooking" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalendarUnitTests.defaultReservationCheckNullity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBooking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="accommodations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="accommodations" />
+      <option name="MAIN_CLASS_NAME" value="accommodations.CalendarUnitTests" />
+      <option name="METHOD_NAME" value="defaultReservationCheckNullity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalendarUnitTests.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBooking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="accommodations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="accommodations" />
+      <option name="MAIN_CLASS_NAME" value="accommodations.CalendarUnitTests" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in MyBooking" />
+        <item itemvalue="Application.Display" />
+        <item itemvalue="JUnit.CalendarUnitTests.defaultReservationCheckNullity" />
+        <item itemvalue="JUnit.CalendarUnitTests.testToString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9aa39f76-283e-425d-aefd-d6b088820cb8" name="Changes" comment="" />
+      <created>1638963920369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638963920369</updated>
+      <workItem from="1638963924715" duration="664000" />
+      <workItem from="1638995778148" duration="8651000" />
+      <workItem from="1639041093089" duration="140000" />
+      <workItem from="1639087687931" duration="9336000" />
+      <workItem from="1639097162369" duration="280000" />
+      <workItem from="1639150033840" duration="23180000" />
+      <workItem from="1639254882566" duration="717000" />
+      <workItem from="1641585370204" duration="973000" />
+      <workItem from="1641777744518" duration="539000" />
+      <workItem from="1641778442543" duration="241000" />
+      <workItem from="1641841552412" duration="9380000" />
+      <workItem from="1649022945931" duration="1023000" />
+      <workItem from="1649024311474" duration="12000" />
+    </task>
+    <task id="LOCAL-00001" summary="(1) Προστέθηκαν σχόλια και (2) Προστέθηκε μέθοδος που ορίζει ξεχωριστό ID σε κάθε κατάλυμα ανεξαρτήτους τύπου.">
+      <created>1639003273138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639003273138</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Προστέθηκαν σχόλια">
+      <created>1639004479238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639004479238</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Προστέθηκαν επιπλέον σχόλια, αρχικοποιήθηκαν &#10;καλύτερα οι χρήστες και τα καταλύματα">
+      <created>1639059099496</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639059099496</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Υλοποίηση γραφικού περιβάλλοντος εισόδου χρήστη">
+      <created>1639255272326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639255272326</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Υλοποίηση γραφικού περιβάλλοντος διαχειριστή">
+      <created>1639255312649</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639255312649</updated>
+    </task>
+    <task id="LOCAL-00006" summary="παραθυρο admin">
+      <created>1641387102325</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641387102325</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ολοκληρωση του windowProvider &#10;και ξεκινημα για windowCustomer">
+      <created>1641430365729</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641430365729</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ολοκληρώθηκε το παράθυρο του παρόχου με τις λειτουργίες:&#10;Εμφάνιση των καταλυμάτων που του ανήκουν&#10;Πρόσθεση νέου καταλύματος&#10;Επεξεργασία καταλύματος που ήδηέχει στη κατοχή του,&#10;Διαγραφή καταλύματος&#10;Εμφάνιση των κρατήσεων για τα καταλύματα του (Έπειτα θα προσπεθει πίνακας εμφάνισης των ακυρώσεων στα καταλύματα του)&#10;-Στο παράθυρο του πελάτη υλοποιήθηκαν τα εξής:&#10;εμφάνιση όλων των καταλυμάτων σε αντίστοιχους πίνακες,&#10;εμφάνιση όλων των κρατήσεων του πελάτη&#10;αναζήτηση καταλυμάτων με κριτήριο-κριτήρια και εμφάνιση τους σε αντίστοιχους πίνακες">
+      <created>1641560185216</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1641560185216</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ολοκληρώθηκε το παράθυρο του παρόχου με τις λειτουργίες:&#10;Εμφάνιση των καταλυμάτων που του ανήκουν&#10;Πρόσθεση νέου καταλύματος&#10;Επεξεργασία καταλύματος που ήδηέχει στη κατοχή του,&#10;Διαγραφή καταλύματος&#10;Εμφάνιση των κρατήσεων για τα καταλύματα του (Έπειτα θα προσπεθει πίνακας εμφάνισης των ακυρώσεων στα καταλύματα του)&#10;-Στο παράθυρο του πελάτη υλοποιήθηκαν τα εξής:&#10;εμφάνιση όλων των καταλυμάτων σε αντίστοιχους πίνακες,&#10;εμφάνιση όλων των κρατήσεων του πελάτη&#10;αναζήτηση καταλυμάτων με κριτήριο-κριτήρια και εμφάνιση τους σε αντίστοιχους πίνακες">
+      <created>1641563857150</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641563857150</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Admin's window deploy">
+      <created>1641585571080</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1641585571080</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Login window deploy">
+      <created>1641585593163</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1641585593163</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Provider's window deploy">
+      <created>1641585618669</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1641585618669</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Register window creation">
+      <created>1641585652869</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1641585652869</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Provider window creation">
+      <created>1641586106638</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1641586106638</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Provider window creation">
+      <created>1641586186020</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1641586186020</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Ολοκληρώθηκε και το παράθυρο του πελάτη">
+      <created>1641721327102</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1641721327102</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Προσθέθηκαν φωτογραφίες για τα default καταλύματα μέσω στο νέο directory upload. Προσθέθηκε δυνατότητα στους παρόχους κατά την πρόσθεση νέου καταλύματος να βάζουν φωτογραφία, μέσω JFileChooser επιλέγοντας αρχείο από τον υπολογιστή τους το οποίο είναι μόνο φωτογραφία.Αυτό ελέγχεται από την κλάση ImageFilter η οποία φιλτράρει το extension του path και αν είναι φωτογραφία τότε γίνεται κανονικά η πρόσθεση. Για τον διαχωρισμό κάθε φωτογραφίας κάθε καταλύματος προσθέθηκε στην κλάση Accommodations μία μεταβλητή imageIdentifier η οποία κατά την αλλαγή του ονόματος της φωτογραφίας στο directory αυξάνει την μεταβλητή κατά ένα. Ετσι έχουμε πχ room1.png,room2.png.... Τέλος προσθέθηκαν κουμπία τύπου shortcuts στο παράθυρο welcome του διαχεριστή. &#10;ΣΗΜΕΙΩΣΗ: Αν κάνεις τεστ και προσθεσες κάποιο κατάλυμα και φωτογραφία απο τον υπολογιστή σου, όταν πας να ξανατρέξεις το πρόγραμμα διέγραψε την φωτογραφία που πρόσθεσες από το directory, γιατί θα συμπέσει ο αναγνωριστικός αριθμός φωτογραφίας με άλλον και θα δημιουργηθεί πρόβλημα. Όταν προσθεθούν αρχεία αυτός ο αριθμός θα ποθηκεύεται σε αρχείο και δεν θα δημιουργήσει πρόβλημα">
+      <created>1642068137095</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1642068137095</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Επιδιωρθόθηκε ένα θέμα με το mouselistener στους πινακες. Προσθεθηκαν 2 μέθοδοι στην κλαση Accommodations μία που επιστρέφει λίστα με όλα τα καταλύματα που έχει στην κατοχή του ο πάροχος και η αντίστοιχη για τα δωμάτια. Πλέον στους πίνακες με τα καταλύματα όταν κάνουμε κλικ στην στηλη των χαρακτηριστικών, ανοίγει νέο φρειμ της κλάσης Display και εμφανίζει αυτά που θέλουμε">
+      <created>1642076407528</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1642076407528</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Επιδιωρθόθηκε ένα θέμα με το mouselistener στους πινακες. Προσθεθηκαν 2 μέθοδοι στην κλαση Accommodations μία που επιστρέφει λίστα με όλα τα καταλύματα που έχει στην κατοχή του ο πάροχος και η αντίστοιχη για τα δωμάτια. Πλέον στους πίνακες με τα καταλύματα όταν κάνουμε κλικ στην στηλη των χαρακτηριστικών, ανοίγει νέο φρειμ της κλάσης Display και εμφανίζει αυτά που θέλουμε.Προσθέθηκαν πίνακες με όλα τα καταλύματα στο παράθυρο των διαχειριστών,με τα αντίστοιχα mouselisteners, επιδιορθώθηκε το πρόβλημα με τις κρατήσεις (όταν έκανε χρήστης κράτηση τον φεβρουάριο πχ 25-28 έτρεχε ατέρμων βρόχος και κράσαρε το πρόγραμμα)">
+      <created>1642457087122</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1642457087122</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Προσθέθηκαν αρχεία">
+      <created>1642586591590</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1642586591605</updated>
+    </task>
+    <task id="LOCAL-00021" summary=" Διορθωση στα αρχεία.Τώρα φαινεται να λειτουργούν όλα σωστά">
+      <created>1642602502897</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1642602502897</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ToolTipText σε jtextfields στο παραθυρο customers 1 button accommodations στο παραθυρο admins">
+      <created>1642679215595</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1642679215595</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="(1) Προστέθηκαν σχόλια και (2) Προστέθηκε μέθοδος που ορίζει ξεχωριστό ID σε κάθε κατάλυμα ανεξαρτήτους τύπου." />
+    <MESSAGE value="Προστέθηκαν σχόλια" />
+    <MESSAGE value="Προστέθηκαν επιπλέον σχόλια, αρχικοποιήθηκαν &#10;καλύτερα οι χρήστες και τα καταλύματα" />
+    <MESSAGE value="Υλοποίηση γραφικού περιβάλλοντος εισόδου χρήστη" />
+    <MESSAGE value="Υλοποίηση γραφικού περιβάλλοντος διαχειριστή" />
+    <MESSAGE value="παραθυρο admin" />
+    <MESSAGE value="Ολοκληρωση του windowProvider &#10;και ξεκινημα για windowCustomer" />
+    <MESSAGE value="Ολοκληρώθηκε το παράθυρο του παρόχου με τις λειτουργίες:&#10;Εμφάνιση των καταλυμάτων που του ανήκουν&#10;Πρόσθεση νέου καταλύματος&#10;Επεξεργασία καταλύματος που ήδηέχει στη κατοχή του,&#10;Διαγραφή καταλύματος&#10;Εμφάνιση των κρατήσεων για τα καταλύματα του (Έπειτα θα προσπεθει πίνακας εμφάνισης των ακυρώσεων στα καταλύματα του)&#10;-Στο παράθυρο του πελάτη υλοποιήθηκαν τα εξής:&#10;εμφάνιση όλων των καταλυμάτων σε αντίστοιχους πίνακες,&#10;εμφάνιση όλων των κρατήσεων του πελάτη&#10;αναζήτηση καταλυμάτων με κριτήριο-κριτήρια και εμφάνιση τους σε αντίστοιχους πίνακες" />
+    <MESSAGE value="Admin's window deploy" />
+    <MESSAGE value="Login window deploy" />
+    <MESSAGE value="Provider's window deploy" />
+    <MESSAGE value="Register window creation" />
+    <MESSAGE value="Provider window creation" />
+    <MESSAGE value="Ολοκληρώθηκε και το παράθυρο του πελάτη" />
+    <MESSAGE value="Προσθέθηκαν φωτογραφίες για τα default καταλύματα μέσω στο νέο directory upload. Προσθέθηκε δυνατότητα στους παρόχους κατά την πρόσθεση νέου καταλύματος να βάζουν φωτογραφία, μέσω JFileChooser επιλέγοντας αρχείο από τον υπολογιστή τους το οποίο είναι μόνο φωτογραφία.Αυτό ελέγχεται από την κλάση ImageFilter η οποία φιλτράρει το extension του path και αν είναι φωτογραφία τότε γίνεται κανονικά η πρόσθεση. Για τον διαχωρισμό κάθε φωτογραφίας κάθε καταλύματος προσθέθηκε στην κλάση Accommodations μία μεταβλητή imageIdentifier η οποία κατά την αλλαγή του ονόματος της φωτογραφίας στο directory αυξάνει την μεταβλητή κατά ένα. Ετσι έχουμε πχ room1.png,room2.png.... Τέλος προσθέθηκαν κουμπία τύπου shortcuts στο παράθυρο welcome του διαχεριστή. &#10;ΣΗΜΕΙΩΣΗ: Αν κάνεις τεστ και προσθεσες κάποιο κατάλυμα και φωτογραφία απο τον υπολογιστή σου, όταν πας να ξανατρέξεις το πρόγραμμα διέγραψε την φωτογραφία που πρόσθεσες από το directory, γιατί θα συμπέσει ο αναγνωριστικός αριθμός φωτογραφίας με άλλον και θα δημιουργηθεί πρόβλημα. Όταν προσθεθούν αρχεία αυτός ο αριθμός θα ποθηκεύεται σε αρχείο και δεν θα δημιουργήσει πρόβλημα" />
+    <MESSAGE value="Επιδιωρθόθηκε ένα θέμα με το mouselistener στους πινακες. Προσθεθηκαν 2 μέθοδοι στην κλαση Accommodations μία που επιστρέφει λίστα με όλα τα καταλύματα που έχει στην κατοχή του ο πάροχος και η αντίστοιχη για τα δωμάτια. Πλέον στους πίνακες με τα καταλύματα όταν κάνουμε κλικ στην στηλη των χαρακτηριστικών, ανοίγει νέο φρειμ της κλάσης Display και εμφανίζει αυτά που θέλουμε" />
+    <MESSAGE value="Επιδιωρθόθηκε ένα θέμα με το mouselistener στους πινακες. Προσθεθηκαν 2 μέθοδοι στην κλαση Accommodations μία που επιστρέφει λίστα με όλα τα καταλύματα που έχει στην κατοχή του ο πάροχος και η αντίστοιχη για τα δωμάτια. Πλέον στους πίνακες με τα καταλύματα όταν κάνουμε κλικ στην στηλη των χαρακτηριστικών, ανοίγει νέο φρειμ της κλάσης Display και εμφανίζει αυτά που θέλουμε.Προσθέθηκαν πίνακες με όλα τα καταλύματα στο παράθυρο των διαχειριστών,με τα αντίστοιχα mouselisteners, επιδιορθώθηκε το πρόβλημα με τις κρατήσεις (όταν έκανε χρήστης κράτηση τον φεβρουάριο πχ 25-28 έτρεχε ατέρμων βρόχος και κράσαρε το πρόγραμμα)" />
+    <MESSAGE value="Προσθέθηκαν αρχεία" />
+    <MESSAGE value=" Διορθωση στα αρχεία.Τώρα φαινεται να λειτουργούν όλα σωστά" />
+    <MESSAGE value="ToolTipText σε jtextfields στο παραθυρο customers 1 button accommodations στο παραθυρο admins" />
+    <MESSAGE value="ενημερωση javadoc" />
+    <option name="LAST_COMMIT_MESSAGE" value="ενημερωση javadoc" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.InvalidClassException" package="java.io" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
